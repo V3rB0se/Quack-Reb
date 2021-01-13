@@ -7,24 +7,21 @@
 <h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91619952-3d89dc80-e997-11ea-9411-b729c3d49eb4.png" alt="logo" height="250px"></h3>
 
 <p align="center">
-  <a href="http://entynetproject.simplesite.com/">
+  <a href="#">
     <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
   </a>
-  <a href="https://github.com/entynetproject/quack/releases">
+  <a href="#">
     <img src="https://img.shields.io/github/release/entynetproject/quack.svg">
   </a>
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/language-python-blue.svg">
  </a>
-  <a href="https://github.com/entynetproject/quack/issues?q=is%3Aissue+is%3Aclosed">
+  <a href="https://github.com/V3RB0SE/Quack-Reb/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues/entynetproject/quack.svg">
   </a>
-  <a href="https://github.com/entynetproject/quack/wiki">
+  <a href="#">
       <img src="https://img.shields.io/badge/wiki%20-quack-lightgrey.svg">
- </a>
-  <a href="https://twitter.com/entynetproject">
-    <img src="https://img.shields.io/badge/twitter-entynetproject-blue.svg">
- </a>
+  </a>
 </p>
 
 ***
