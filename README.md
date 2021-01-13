@@ -1,5 +1,5 @@
 # Quack-Reb
-<h1>entynetproject</h1>
+<h5>Ivan Nikolsky</h5>
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91619952-3d89dc80-e997-11ea-9411-b729c3d49eb4.png" alt="logo" height="250px"></h3>
 
